@@ -1,0 +1,11 @@
+.title {
+  font-size: 23px;
+}
+
+.tech-logo {
+  height: 120px;
+}
+
+.rounded {
+  border-radius: 50px !important;
+}
